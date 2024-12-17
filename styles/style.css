@@ -45,7 +45,7 @@
 .cover {
   position: relative;
   background: url(../images/cover.jpg) no-repeat center / cover;
-  margin-bottom: 178px;
+  margin-bottom: 177px;
   color: white;
   padding: 0;
 }
@@ -183,7 +183,7 @@
   line-height: 120%;
   text-decoration: none;
   padding-bottom: 48px;
-  padding-left: 39px;
+  padding-left: 40px;
   padding-right: 40px;
 }
 
