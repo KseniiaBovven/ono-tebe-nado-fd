@@ -95,9 +95,7 @@
   justify-content: space-around;
   align-items: center;
   gap: 107px;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 50px;
+  padding: 0 50px 50px 50px;
 }
 
 .cover__description-text {
