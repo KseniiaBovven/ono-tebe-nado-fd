@@ -3,7 +3,6 @@
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 92px 50px 96px 50px;
-
 }
 
 .header__menu-list {
@@ -23,8 +22,7 @@
 
 .header__logo {
   display: block;
-  width: 134px;
-  height: 101px;
+  width: 136px;
 }
 
 .header__logo-image {
