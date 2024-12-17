@@ -44,7 +44,7 @@
 .cover {
   position: relative;
   background: url(../images/cover.jpg) no-repeat center / cover;
-  margin-bottom: 180px;
+  margin-bottom: 179px;
   color: white;
   padding: 0;
 }
@@ -120,7 +120,7 @@
 
 .lots {
   position: relative;
-  margin-bottom: 120px;
+  margin-bottom: 122px;
   padding-left: 24px;
   padding-right: 24px;
 }
